@@ -1,5 +1,5 @@
 {
-  "name":"gifted-md@4.0.0",
+  "name":"ITZ LAMY MD@4.0.0",
   "description":"A MultiDevice WhatsApp Bot Created by Gifted Tech",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/a202f454c9532c3f5b7f8.jpg",
@@ -42,7 +42,7 @@
     "BOT_NAME" : {
 
       "description":"put A name for your bot",
-      "value":"GIFTED-MD",
+      "value":"ITZ LAMY MD",
       "required":false
 
     } ,
@@ -81,7 +81,7 @@
 
     "desc": "Your Name",
     "required": false,
-    "value": "Gifted Tech"
+    "value": "Itz Lamy Tech"
   },
     "OWNER_NUMBER":
   {
